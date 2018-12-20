@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/allyssonsantos/nodejs-typescript-boilerplate/issues"
   },
-  "homepage": "https://github.com/allyssonsantos/nodejs-typescript-boilerplate#readme"
+  "homepage": "https://github.com/allyssonsantos/nodejs-typescript-boilerplate#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^1.18.9",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.2.2"
+  }
 }
