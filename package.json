@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest --no-cache",
-    "dev": "nodemon --watch \"src/\" --exec \"ts-node src/entry.ts \" -e ts",
+    "dev": "nodemon --watch \"app/\" --exec \"ts-node app/entry.ts \" -e ts",
     "build": "tsc",
     "prod": "npm run build && node dist/entry.js"
   },
