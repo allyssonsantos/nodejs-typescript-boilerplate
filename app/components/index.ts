@@ -1,5 +1,3 @@
 import ExampleController from './example';
 
-export {
-  ExampleController,
-};
+export { ExampleController };
